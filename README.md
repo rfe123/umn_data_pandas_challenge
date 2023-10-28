@@ -4,29 +4,28 @@
 ### District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
-Total number of unique schools
-Total students
-Total budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+- Total number of unique schools
+- Total students
+- Total budget
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
+- % overall passing (the percentage of students who passed math AND reading)
 
 ### School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 Include the following:
-
-School name
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+- School name
+- School type
+- Total students
+- Total school budget
+- Per student budget
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
+- % overall passing (the percentage of students who passed math AND reading)
 
 ### Highest-Performing Schools (by % Overall Passing)
 
@@ -51,11 +50,11 @@ Create a DataFrame that lists the average reading score for students of each gra
 Create a table that breaks down school performance based on average spending ranges (per student).
 Include the following metrics in the table:
 
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
+- % overall passing (the percentage of students who passed math AND reading)
 
 ### Scores by School Size
 
